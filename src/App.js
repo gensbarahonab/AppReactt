@@ -11,6 +11,7 @@ function App() {
       <BrandHeader></BrandHeader>
       <section class="bonito">
       <Login></Login>
+      <Cards></Cards>
       </section>
     </section>
   );
